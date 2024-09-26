@@ -37,12 +37,7 @@ public void setNome(String nome) {
 public String getGenero() {
 	return genero;
 }
-/**
- * @param genero the genero to set
- */
-public void setGenero(String genero) {
-	this.genero = genero;
-}
+
 /**
  * @return the idade
  */
