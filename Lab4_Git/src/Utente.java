@@ -13,7 +13,6 @@ private int peso;
  * @param peso
  */
 public Utente(String nome, String genero, int idade, float altura, int peso) {
-	super();
 	this.nome = nome;
 	this.genero = genero;
 	this.idade = idade;
